@@ -1,4 +1,4 @@
-This is a test of liquid Pixel
+This is liquid Pixel local test
 
 ## Getting Started
 
